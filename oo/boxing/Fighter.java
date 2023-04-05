@@ -7,7 +7,7 @@ public class Fighter {
 
     public Fighter(String name, int health, int damage) {
         this.name = name;
-        setHealth(int health);
+        setHealth(health);
         damagePerAttack = damage;
     }
 
