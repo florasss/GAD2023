@@ -1,2 +1,5 @@
-package oo.interfaces;public interface Clock {
+package oo.interfaces;
+
+public interface Clock {
+    String getTime();
 }

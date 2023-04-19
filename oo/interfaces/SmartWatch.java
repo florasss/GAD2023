@@ -1,2 +1,6 @@
-package oo.interfaces;public class SmartWatch {
+package oo.interfaces;
+
+public interface SmartWatch {
+    void sendEmail(String toEmail);
 }
+
