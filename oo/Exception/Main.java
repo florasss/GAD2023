@@ -17,7 +17,7 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NumberNotEvenException {
         Calculator calc = new Calculator();
         int i = 5;
         try {
